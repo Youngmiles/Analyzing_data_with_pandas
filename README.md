@@ -1,10 +1,12 @@
 # Analyzing_data_with_pandas
 
 Overview
+
 This project performs comprehensive data analysis on the classic Iris dataset, demonstrating data exploration, statistical analysis and visualization techniques using Python.
 The analysis includes data cleaning, statistical summaries and various visualization methods to understand patterns and relationships within the dataset.
 
 Tasks Completed
+
 1. Data Loading and Exploration
 Loaded the Iris dataset using scikit-learn
 Explored data structure and types
@@ -36,19 +38,22 @@ Setosa species has the smallest petal length and width
 Requirements
 Python 3.x
 
-Libraries:
+# Libraries:
+
 pandas (data manipulation)
 numpy (numerical operations)
 matplotlib (basic plotting)
 seaborn (enhanced visualization)
 scikit-learn (dataset loading)
 
-Installation
+## Installation
 # Create and activate a virtual environment 
+
 python -m venv venv
 source venv/bin/activate  
 
 # Install required packages
+
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 # Run the analysis with:
