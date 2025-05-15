@@ -38,13 +38,17 @@ Setosa species has the smallest petal length and width
 ## Requirements
 Python 3.x
 
-# Libraries:
+## Libraries:
 
- -pandas (data manipulation)
- -numpy (numerical operations)
- -matplotlib (basic plotting)
- -seaborn (enhanced visualization)
- -scikit-learn (dataset loading)
+pandas (data manipulation)
+
+numpy (numerical operations)
+
+matplotlib (basic plotting)
+
+seaborn (enhanced visualization)
+
+scikit-learn (dataset loading)
 
 ## Installation
 # Create and activate a virtual environment 
