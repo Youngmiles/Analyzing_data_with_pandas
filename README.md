@@ -40,11 +40,11 @@ Python 3.x
 
 # Libraries:
 
-pandas (data manipulation)
-numpy (numerical operations)
-matplotlib (basic plotting)
-seaborn (enhanced visualization)
-scikit-learn (dataset loading)
+ pandas (data manipulation)
+ numpy (numerical operations)
+ matplotlib (basic plotting)
+ seaborn (enhanced visualization)
+ scikit-learn (dataset loading)
 
 ## Installation
 # Create and activate a virtual environment 
