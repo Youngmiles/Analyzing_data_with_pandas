@@ -1,11 +1,11 @@
 # Analyzing_data_with_pandas
 
-Overview
+# Overview
 
 This project performs comprehensive data analysis on the classic Iris dataset, demonstrating data exploration, statistical analysis and visualization techniques using Python.
 The analysis includes data cleaning, statistical summaries and various visualization methods to understand patterns and relationships within the dataset.
 
-Tasks Completed
+# Tasks Completed
 
 1. Data Loading and Exploration
 Loaded the Iris dataset using scikit-learn
